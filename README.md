@@ -119,7 +119,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xintong120)
 [![Star-Destiny](https://img.shields.io/badge/Star_Destiny-紫微命盘-purple?style=for-the-badge&logo=star&logoColor=white)](https://xintong120.github.io/Star-Destiny/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lxt2002120@gmail.com)
 
 </div>
 
