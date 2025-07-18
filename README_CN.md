@@ -2,8 +2,8 @@
 
 # 👋 你好，我是 Xintong120
 
-[![中文](https://img.shields.io/badge/语言-中文-red?style=for-the-badge)](README.md)
-[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README_EN.md)
+[![中文](https://img.shields.io/badge/语言-中文-red?style=for-the-badge)](README_CN.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
 
 </div>
 
@@ -52,7 +52,7 @@
 
 - 🎯 **项目亮点**: 基于Vue 3的现代化紫微斗数命盘应用
 - 🛠️ **技术栈**: Vue 3 + TypeScript + Vite + Element Plus + Pinia
-- ✨ **核心功能**:
+- ✨ **核心功能**: 
   - 多层级运限选择（大限、流年、流月）
   - 星耀解释系统（14主星详解）
   - 状态持久化与高效缓存
