@@ -1,4 +1,11 @@
+<div align="center">
+
 # 👋 你好，我是 Xintong120
+
+[![中文](https://img.shields.io/badge/语言-中文-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README_EN.md)
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=全栈开发者;传统文化+现代技术;紫微斗数应用开发者;Vue.js+TypeScript爱好者" alt="Typing SVG" />
@@ -38,7 +45,7 @@
 
 ## 🌟 精选项目
 
-### � Star-Destiny - 紫微命盘应用
+### 🔮 Star-Destiny - 紫微命盘应用
 [![Star-Destiny](https://img.shields.io/badge/Star_Destiny-紫微命盘-purple?style=for-the-badge&logo=star&logoColor=white)](https://github.com/Xintong120/Star-Destiny)
 
 **我的首个GitHub项目：用技术重新诠释传统命理学的确定性**
@@ -59,7 +66,7 @@
 - 🎨 现代化UI设计，响应式布局
 - 🔄 自动化部署（GitHub Actions）
 
-## �📊 GitHub 统计
+## 📊 GitHub 统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xintong120&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -88,7 +95,7 @@
 - [ ] 写技术博客分享开发经验
 - [ ] 参与Vue.js社区贡献
 
-## � 开发理念
+## 💡 开发理念
 
 > **"传统智慧 × 现代技术 = 无限可能"**
 
@@ -124,7 +131,7 @@
 
 </div>
 
-## � 每日一言
+## 💫 每日一言
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
